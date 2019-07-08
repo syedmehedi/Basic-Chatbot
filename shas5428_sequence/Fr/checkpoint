@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/Comp5046_Assignment1/Model/Fr/model_Seq2Seq_fr.cpkt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/Comp5046_Assignment1/Model/Fr/model_Seq2Seq_fr.cpkt"
